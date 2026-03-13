@@ -1,0 +1,4 @@
+keystore_file = scannerapp.jks
+keystore_password = scanner123
+key_alias = scannerkry
+key_password = scanner123
